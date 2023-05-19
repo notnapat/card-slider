@@ -1,0 +1,50 @@
+/* .App { */
+  /* text-align: center; */
+/* } */
+
+.slide-content{
+  width: 100%;
+  height: 384px;
+  /* background-color: #86C8BC; */
+}
+
+.title{
+  height: 48px;
+  border: solid 1px red;
+}
+
+.cards {
+  height: 336px;
+  width: 100%;
+  border: solid 1px green;
+  display: flex;
+  /* justify-content:space-between; */
+  /* justify-content: space-around; */
+  align-items: center;
+  justify-content: center;
+  /* box-sizing: border-box; */
+}
+
+.cards a{
+  width: 200px;
+  /* justify-content: space-around; */
+  /* box-sizing: none; */
+  margin: 0 12px;
+
+}
+
+.cards .card-item{
+  height: 320px;
+  /* width: 100%; */
+  /* width: 12.5rem; */
+  border: solid 1px blue;
+  background-color: green;
+}
+
+.card-item{
+  height: 320px;
+  /* width: 100%; */
+  /* width: 12.5rem; */
+  border: solid 1px blue;
+  background-color: green;
+}
